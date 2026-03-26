@@ -1,0 +1,65 @@
+{
+  "isActive": true,
+  "games": [
+    {
+      "asin": "B0F1V8V2LN",
+      "packageName": "com.epicoro.flipnstack",
+      "title": "Flip n' Stack",
+      "img": "https://m.media-amazon.com/images/I/619mH6+B1aL.png"
+    },
+    {
+      "asin": "B0F1VC15KS",
+      "packageName": "com.epicoro.carsurvivor",
+      "title": "Car Survivor",
+      "img": "https://m.media-amazon.com/images/I/91Ox3CYAY3L.png"
+    },
+    {
+      "asin": "B0F2ZJR2WM",
+      "packageName": "com.makemake.bossfightclicker",
+      "title": "Boss Fight Clicker",
+      "img": "https://m.media-amazon.com/images/I/81r2lEHthGL.png"
+    },
+    {
+      "asin": "B0F2ZH9S4R",
+      "packageName": "com.makemake.bombmerge",
+      "title": "Bomb Merge and Blast",
+      "img": "https://m.media-amazon.com/images/I/816fk1EIkhL.png"
+    },
+    {
+      "asin": "B0F2ZH2YTD",
+      "packageName": "com.makemake.balloonrushsort",
+      "title": "Balloon Rush Sort",
+      "img": "https://m.media-amazon.com/images/I/71pQpdbzeyL.png"
+    },
+    {
+      "asin": "B0F2ZD2C77",
+      "packageName": "com.makemake.balloonblastbottles",
+      "title": "Balloon Blast Bottles",
+      "img": "https://m.media-amazon.com/images/I/81yEolvQEmL.png"
+    },
+    {
+      "asin": "B0F2ZDPZND",
+      "packageName": "com.makemake.assassincommando",
+      "title": "Assassin Commando",
+      "img": "https://m.media-amazon.com/images/I/81gI-G3uSqL.png"
+    },
+    {
+      "asin": "B0F2ZJV64J",
+      "packageName": "com.makemake.candystick",
+      "title": "Candy Stick",
+      "img": "https://m.media-amazon.com/images/I/81X2qEf8vDL.png"
+    },
+    {
+      "asin": "B0F2ZJNJ23",
+      "packageName": "com.makemake.builderclicker",
+      "title": "Builder Clicker",
+      "img": "https://m.media-amazon.com/images/I/71CXFVA8GQL.png"
+    },
+    {
+      "asin": "B0F2YQ1TKQ",
+      "packageName": "com.makemake.bloomshop",
+      "title": "Bloom Shop",
+      "img": "https://m.media-amazon.com/images/I/71sYDLgC7nL.png"
+    }
+  ]
+}
